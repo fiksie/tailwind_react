@@ -1,7 +1,7 @@
 const data = {
     products: [
         {
-            shirt: "Free Shirt",
+            name: "Free Shirt",
             slug: "free-shirt",
             category: "shirts",
             image: "/images/shirt1.jpg",
@@ -13,7 +13,7 @@ const data = {
             description: "Just a simple free shirt",
         },
         {
-            shirt: "Fit Shirt",
+            name: "Fit Shirt",
             slug: "fit-shirt",
             category: "shirts",
             image: "/images/shirt2.jpg",
@@ -25,7 +25,7 @@ const data = {
             description: "Just a simple shirt",
         },
         {
-            shirt: "Slim Shirt",
+            name: "Slim Shirt",
             slug: "slim-shirt",
             category: "shirts",
             image: "/images/shirt3.jpg",
@@ -37,7 +37,7 @@ const data = {
             description: "Simple a slim shirt",
         },
         {
-            shirt: "Fit Pants",
+            name: "Fit Pants",
             slug: "fit-pants",
             category: "pants",
             image: "/images/pants1.jpg",
@@ -49,7 +49,7 @@ const data = {
             description: "Simple fit pants",
         },
         {
-            shirt: "Golf Pants",
+            name: "Golf Pants",
             slug: "golf-pants",
             category: "pants",
             image: "/images/pants2.jpg",
@@ -61,7 +61,7 @@ const data = {
             description: "Simple golf pants",
         },
         {
-            shirt: "Slim Pants",
+            name: "Slim Pants",
             slug: "slim-pants",
             category: "pants",
             image: "/images/pants3.jpg",
@@ -74,4 +74,4 @@ const data = {
         },
     ]
 }
-export default data
+export default data;
