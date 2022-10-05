@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "react-hook-form": "^7.31.2",
     "@heroicons/react": "^1.0.6",
     "js-cookie": "^3.0.1",
     "next": "12.3.0",
