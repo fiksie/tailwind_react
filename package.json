@@ -9,12 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react-hook-form": "^7.31.2",
     "@heroicons/react": "^1.0.6",
     "js-cookie": "^3.0.1",
+    "mongoose": "^6.6.5",
     "next": "12.3.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.31.2"
   },
   "devDependencies": {
     "@types/react": "^18.0.21",
